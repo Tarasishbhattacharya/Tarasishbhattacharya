@@ -17,8 +17,6 @@
 
 - 📫 How to reach me **tarasishb@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1RY-XbIiUKGHrKRXPp5cHz5fTs0WP7NVtnuojadz3emM/edit?usp=sharing](https://docs.google.com/document/d/1RY-XbIiUKGHrKRXPp5cHz5fTs0WP7NVtnuojadz3emM/edit?usp=sharing)
-
 - ⚡ Interested i **Learning new Technologies and contribute**
 
 <h3 align="left">Connect with me:</h3>
