@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Tarasish Bhattacharya</h1>
-<h3 align="center">Hi I'M a MERN(MongoDB, Express.JS, React.JS,Node.JS)Developer, Problem solver with a keen interest to work in Server side application and skilled in building Full stack project .</h3>
+<h3 align="center">Hi I'M an aspiring Data analyst, Problem solver with a keen interest to help to take business decision .</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tarasishbhattacharya&label=Profile%20views&color=0e75b6&style=flat" alt="tarasishbhattacharya" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tarasishbhattacharya" alt="tarasishbhattacharya" /></a> </p>
 
-- 🔭 I have worked on [Tata-CliQ Clone](https://github.com/anchor-abhi/tata-cliq-clone)
+- 🔭 I have worked on [Laptop price prediction]([https://github.com/anchor-abhi/tata-cliq-clone](https://github.com/Tarasishbhattacharya/Laptop_price))
 
-- 🌱 I’m currently learning **React.JS**,  **Spring-boot**, **JPA**, **Hibernate**, **MySql**
+- 🌱 I’m currently learning **Python**,  **SQL**, **Microsoft Power-BI**, **Tableau**, **Machine Learning**
 
 - 👯 I have worked on [Blinkit-clone](https://github.com/Surajdevere09/blinkit-clone)
 
 - 🤝 I have worked on [Unsplash clone](https://github.com/Tarasishbhattacharya/Unsplash-clone)
 
-- 💬 Ask me about **React.JS, Node .JS,Express.JS,MongoDB**
+- 💬 Ask me about **Python , SQL , Power BI, Tableau**
 
 - 📫 How to reach me **tarasishb@gmail.com**
 
